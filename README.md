@@ -1,4 +1,6 @@
 # daily-question-javascript-q21
+KEY: Why did you not respond?
+
 
 ### Try/Catch/Throw
 
