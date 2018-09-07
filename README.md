@@ -66,7 +66,7 @@ Starting the process...
 
 Error: Something went wrong 
 
-Error: Error: Something went wrong 
+Error: Error: Something went wrong 	X
 
 The outer finally block  
 
